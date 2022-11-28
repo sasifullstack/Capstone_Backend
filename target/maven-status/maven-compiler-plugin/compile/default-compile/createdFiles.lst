@@ -1,0 +1,15 @@
+com/moviereview/capstone/repository/ReviewRepository.class
+com/moviereview/capstone/controller/ReviewController.class
+com/moviereview/capstone/entity/Review.class
+com/moviereview/capstone/repository/UserRepository.class
+com/moviereview/capstone/repository/MovieRepository.class
+com/moviereview/capstone/service/ReviewRepo.class
+com/moviereview/capstone/controller/MovieReviewController.class
+com/moviereview/capstone/service/ReviewControllerService.class
+com/moviereview/capstone/entity/User.class
+com/moviereview/capstone/config/package-info.class
+com/moviereview/capstone/controller/UserController.class
+com/moviereview/capstone/config/WebConfig.class
+com/moviereview/capstone/service/MovieReviewService.class
+com/moviereview/capstone/entity/Movie.class
+com/moviereview/capstone/CapstoneApplication.class
